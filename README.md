@@ -2,22 +2,22 @@
 
 
 	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamshrma/)
+[![Linkedin Badge]()
 
 
-I have completed Bachelors's in Computer Science & Engineering 🎓 from Chandigarh University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️.
+I have completed Bachelors's in Computer Science & Engineering 🎓 from Chandigarh University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Testing 🕸️.
 
-[![](https://gitwar.herokuapp.com/badge?username=shubha108a&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![]()
 
 
 ### Talking about Personal Stuffs:
 
-- ❤️ &nbsp; I’m currently looking for full time Opportunity.
+- ❤️ &nbsp; I’m currently working as a Software Test Engineer.
 - 🛠 &nbsp; I’m currently working with Angular, <br />  Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning Automation Testing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shubha108).
-- 💬 &nbsp; Ask me about: Javascript.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 💬 &nbsp; Ask me about: Manual Testing.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Manual Testing.
 - 📫 &nbsp; How to reach me: shubham0999sh@gmail.com |
 - 📝 &nbsp; Checkout my [Resume](https://www.dropbox.com/).
 
