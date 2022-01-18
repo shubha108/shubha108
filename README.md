@@ -16,7 +16,7 @@ I have completed Bachelors's in Computer Science & Engineering 🎓 from Chandig
 - 🚀 &nbsp; I’m currently learning Automation Testing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shubha108).
 - 💬 &nbsp; Ask me about: Manual Testing.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Manual Testing.
+- 👾 &nbsp; Myths: A software becomes bug-free after testing
 - 📫 &nbsp; How to reach me: shubham0999sh@gmail.com |
 - 📝 &nbsp; Checkout my [Resume](https://www.dropbox.com/).
 
