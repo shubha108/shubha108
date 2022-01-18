@@ -2,18 +2,18 @@
 
 
 	
-[![Linkedin Badge]()
+[![Linkedin Badge](https://www.linkedin.com/in/shubham-sharma-a554a6229/)
 
 
 I have completed Bachelors's in Computer Science & Engineering 🎓 from Chandigarh University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Software Testing 🕸️.
 
-[![]()
+
 
 
 ### Talking about Personal Stuffs:
 
 - ❤️ &nbsp; I’m currently working as a Software Test Engineer.
-- 🛠 &nbsp; I’m currently working with Angular, <br />  Javascript, etc.
+- 🛠 &nbsp; I’m currently improving Coding skills, <br />  Java, etc.
 - 🚀 &nbsp; I’m currently learning Automation Testing.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shubha108).
 - 💬 &nbsp; Ask me about: Manual Testing.
@@ -28,7 +28,7 @@ I have completed Bachelors's in Computer Science & Engineering 🎓 from Chandig
 
 ### Languages and Tools:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.atlassian.com%2Fsoftware%2Fjira&psig=AOvVaw26U15ciuGUOyS6Oj8u1NxU&ust=1642566351148000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODr8NO6uvUCFQAAAAAdAAAAABAD" alt="cpp"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
